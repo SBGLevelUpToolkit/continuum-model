@@ -1,5 +1,4 @@
 # continuum-model
-Continuum 
 
 Continuum helps you Level Up
 
