@@ -10,12 +10,13 @@ You can use it to build a heat map of relative strengths and areas of improvemen
 
 This repository contains following files:
 
-  'Continuum Deck final.pdf' explains Continuum model and key assessment principles.
+High level summary of the model is illustrated in the file 'A3_Hand_out_REV01.pdf.
 
-  The competencies under each dimension across all levels are detailed in the file 'Visual map - Grid – final.pdf' 
+Continuum model and key assessment principles are explained in 'Continuum Deck final.pdf'.
 
-  The excel representation of the competencies per dimension/level is provided in 'Continuum in Excel - map v 1.xlsx'
+The visual map contains visual representation of 12 dimensions across 5 levels of maturity, detailing competencies under each dimension and level. 'Visual map - Grid – final.pdf' is the original version. As the model is improved, the revised visual maps will be added to the repository. We will keep all versions for your reference. The latest revision will be indicated by version number. 
 
-  The summary of the model 'A3_Hand_out_REV01.pdf'
+The excel representation of the competencies per dimension/level is provided in ‘Continuum in Excel – map’ file. 
+
 
 
