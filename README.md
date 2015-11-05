@@ -14,7 +14,7 @@ High level summary of the model is illustrated in the file 'A3_Hand_out_REV01.pd
 
 Continuum model and key assessment principles are explained in 'Continuum Deck final.pdf'.
 
-The visual map contains visual representation of 12 dimensions across 5 levels of maturity, detailing competencies under each dimension and level. 'Visual map - Grid – final.pdf' is the original version. As the model is improved, the revised visual maps will be added to the repository. We will keep all versions for your reference. The latest revision will be indicated by version number. 
+The visual map contains visual representation of 12 dimensions across 5 levels of maturity, detailing competencies under each dimension and level. 'Continuum Visual Map v 0.pdf' is the original version. As the model is improved, the revised visual maps will be added to the repository. We will keep all versions for your reference. The latest revision will be indicated by version number. 
 
 The excel representation of the competencies per dimension/level is provided in ‘Continuum in Excel – map’ file. 
 
